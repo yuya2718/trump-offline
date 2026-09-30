@@ -1,63 +1,23 @@
 {
-  "_card-table-graphics-DaEqHo2x.js": {
-    "file": "assets/card-table-graphics-DaEqHo2x.js",
-    "name": "card-table-graphics",
-    "isDynamicEntry": true,
-    "imports": [
-      "index.html"
-    ]
-  },
-  "_graphics-defaults-CReDjoCh.js": {
-    "file": "assets/graphics-defaults-CReDjoCh.js",
-    "name": "graphics-defaults",
-    "imports": [
-      "index.html",
-      "_card-table-graphics-DaEqHo2x.js"
-    ],
-    "css": [
-      "assets/graphics-defaults-CxJHBrCT.css"
-    ]
-  },
-  "_graphics-defaults-CxJHBrCT.css": {
-    "file": "assets/graphics-defaults-CxJHBrCT.css",
-    "src": "_graphics-defaults-CxJHBrCT.css"
-  },
   "index.html": {
-    "file": "assets/index-CRaE0M-J.js",
+    "file": "assets/index-CQgN1Qqs.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_card-table-graphics-DaEqHo2x.js",
-      "src/games/poker/simple-session.ts",
-      "src/games/poker/session.ts",
-      "src/games/poker/simple-session.ts",
-      "src/games/poker/session.ts"
+      "src/view/graphics/card-table-graphics.ts"
     ],
     "css": [
-      "assets/index-kqKUv87p.css"
+      "assets/index-ozqeboac.css"
     ]
   },
-  "src/games/poker/session.ts": {
-    "file": "assets/session-CjL4xs6z.js",
-    "name": "session",
-    "src": "src/games/poker/session.ts",
+  "src/view/graphics/card-table-graphics.ts": {
+    "file": "assets/card-table-graphics-D5d7hreB.js",
+    "name": "card-table-graphics",
+    "src": "src/view/graphics/card-table-graphics.ts",
     "isDynamicEntry": true,
     "imports": [
-      "index.html",
-      "_graphics-defaults-CReDjoCh.js",
-      "_card-table-graphics-DaEqHo2x.js"
-    ]
-  },
-  "src/games/poker/simple-session.ts": {
-    "file": "assets/simple-session-ChYna7_9.js",
-    "name": "simple-session",
-    "src": "src/games/poker/simple-session.ts",
-    "isDynamicEntry": true,
-    "imports": [
-      "index.html",
-      "_graphics-defaults-CReDjoCh.js",
-      "_card-table-graphics-DaEqHo2x.js"
+      "index.html"
     ]
   }
 }
