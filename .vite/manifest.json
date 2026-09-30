@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-BpHyLN2y.js",
+    "file": "assets/index-Z1hOS8SC.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -8,11 +8,11 @@
       "src/view/graphics/card-table-graphics.ts"
     ],
     "css": [
-      "assets/index-ozqeboac.css"
+      "assets/index-4Ey_wCNJ.css"
     ]
   },
   "src/view/graphics/card-table-graphics.ts": {
-    "file": "assets/card-table-graphics-DNrItda_.js",
+    "file": "assets/card-table-graphics-DGppX3bK.js",
     "name": "card-table-graphics",
     "src": "src/view/graphics/card-table-graphics.ts",
     "isDynamicEntry": true,
