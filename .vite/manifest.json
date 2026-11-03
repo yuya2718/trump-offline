@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-ac3tt8Td.js",
+    "file": "assets/index-BwRe_2Bs.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -12,7 +12,7 @@
     ]
   },
   "src/view/graphics/card-table-graphics.ts": {
-    "file": "assets/card-table-graphics-DiVneWbz.js",
+    "file": "assets/card-table-graphics-MlUc_gfs.js",
     "name": "card-table-graphics",
     "src": "src/view/graphics/card-table-graphics.ts",
     "isDynamicEntry": true,
